@@ -11,7 +11,7 @@ Aplicación para firmar documento pdf, con las firmas digitales de certificado .
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/samuel205/firmar_pdf.git
    cd tu-proyecto
    ```
 
